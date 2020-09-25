@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-  <head>
-    <title>Título da página</title>
-    <meta charset="utf-8">
 
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-    <header id="main-header">
+<head>
+  <title>Título da página</title>
+  <meta charset="utf-8">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header id="main-header">
+    <div class="content">
       <nav>
         <ul>
           <li>
@@ -24,14 +27,55 @@
           </li>
         </ul>
       </nav>
-      
       <img src="assets/logo.svg" alt="Logo Twitter">
-      
       <div class="side">
         <input type="text" placeholder="Search on Twitter">
         <img src="assets/avatar.png" alt="Avatar">
         <button>Tweet</button>
       </div>
-    </header>
-  </body>
+    </div>
+  </header>
+
+  <div class="banner">
+    <h2>Created by <strong>@JeremDagn</strong> & copied by <strong>@RRS</strong></h2>
+    <p>Feel free to share, use and spread the world with !</p>
+  </div>
+
+  <div class="bar">
+    <div class="content">
+      <ul>
+        <li class="active">
+          <span>Tweets</span>
+          <strong>1234</strong>
+        </li>
+        <li>
+          <span>Followers</span>
+          <strong>532k</strong>
+        </li>
+        <li>
+          <span>Followings</span>
+          <strong>459k</strong>
+        </li>
+        <li>
+          <span>Favorites</span>
+          <strong>172</strong>
+        </li>
+        <li>
+          <span>Lists</span>
+          <strong>8</strong>
+        </li>
+        <li>
+          <span>Moments</span>
+          <strong>0</strong>
+        </li>
+      </ul>
+  
+      <div class="left-side">
+        <button>Follow</button>
+        <img src="/src/assets/more.svg" alt="More Options">
+      </div>
+    </div>
+  </div>
+</body>
+
 </html>
