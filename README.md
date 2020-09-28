@@ -1,7 +1,7 @@
 <img alt="Banner" src="/.github/banner.png">
 
 <h1 align="center">Twitter Page</h1>
-<p align="center">Replica do Twitter construído somente a partir de propriedades FlexBox</p>
+<p align="center">Replica do Twitter construído somente a partir de propriedades FlexBox.</p>
 
 <h4 align="center"> 
   :heavy_check_mark:  Twitter Page 🚀 Finalizado  :heavy_check_mark:
