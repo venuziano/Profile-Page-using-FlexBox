@@ -27,8 +27,8 @@
       <li> display; </li>
       <li> flex-direction; </li>
       <li> align-items;</li>
-      <li> justify-content </li>
-      <li> flex-wrap </li>
+      <li> justify-content;</li>
+      <li> flex-wrap;</li>
     </ul>
   </li>
 </ul>
